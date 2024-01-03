@@ -8,9 +8,8 @@
  🔗Live Link -: https://interior-design-homepage-five.vercel.app/
 
  <b> <br>USAGE: <br> </b>
-Clone the repository and open it in any HTML Editor.
-
-
+Clone the repository and open it in any HTML Editor. <br>
+https://github.com/oluyalireuben/Interior-Design-Homepage. <br>
 Run the website using your favourite browser
 
 
