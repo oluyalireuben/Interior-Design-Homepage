@@ -1,4 +1,4 @@
-# Interior-Design 
+# Interior-Design.
 
 ## Tech Stack
 
